@@ -1,9 +1,9 @@
-## Hi there 👋
+# ¡Hola! Soy Valentina 🤗
+
+## Acerca de mí:
+Soy un estudiante de ingeniería robótica apasionada por la tecnología y la innovación. Estoy aprendiendo y desarrollando mis habilidades en robótica
 
 <!--
-**valentechie/valentechie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
