@@ -1,7 +1,7 @@
 # ¡Hola! Soy Valentina 🤗
 
-## Acerca de mí:
-Soy un estudiante de ingeniería robótica apasionada por la tecnología y la innovación. Estoy aprendiendo y desarrollando mis habilidades en robótica
+## Sobre mí 🚀
+Soy una estudiante de ingeniería robótica apasionada por la tecnología y la innovación. Estoy aprendiendo y desarrollando mis habilidades en robótica
 
 <!--
 
