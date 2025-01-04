@@ -1,4 +1,6 @@
-# Hi there, I am Valentina 🤗
+<div id="header" align="center">
+  <img width="792" alt="image0 (1)" src="https://github.com/user-attachments/assets/2680fe2c-4e3d-47ce-8d5b-3573840ac418" />
+</div>
 
 ## About me 🚀
 I am a robotics engineering student passionate about technology and innovation. I am learning and developing my skills in robotics.
