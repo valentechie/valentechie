@@ -1,9 +1,8 @@
 ![Header](https://github.com/user-attachments/assets/2e0aae05-9fbb-4b25-840c-443b5d6aa1ee)
 
+<!--
 ## About me :rocket:
 I am a robotics engineering student passionate about technology and innovation.
-
-<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 
