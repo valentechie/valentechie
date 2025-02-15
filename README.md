@@ -1,10 +1,10 @@
 ![Header](https://github.com/user-attachments/assets/2e0aae05-9fbb-4b25-840c-443b5d6aa1ee)
 
-### **Skills in Progress**
+### **:seedling: Skills in Progress**
 
-**:computer: Programming Languages & Development Environments:**                                                    
+**:computer: Programming & Development Environments:**                                                    
                                                                                                   
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,java&theme=light)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=vscode,idea,arduino&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,vscode,idea,arduino&theme=light)](https://skillicons.dev)
 
 <!--
 ## About me :rocket:
