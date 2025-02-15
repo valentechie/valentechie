@@ -2,10 +2,6 @@
 
 ## Skills in Progress
 
-  ### :art: Frontend:
-
-  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap&theme=light)](https://skillicons.dev)
-
   ### :woman_technologist: Programming Languages:
 
   [![My Skills](https://skillicons.dev/icons?i=cpp,c,java&theme=light)](https://skillicons.dev)
