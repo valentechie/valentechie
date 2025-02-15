@@ -5,7 +5,7 @@
 </p>
 
 <p align=center>
-  <b>:computer: Programming & Development Environments:</b>
+  <b>:computer: Programming & Development Environments</b>
 </p>
 
 <p align=center>
@@ -13,8 +13,6 @@
 </p>
 
 <!--
-## About me :rocket:
-I am a robotics engineering student passionate about technology and innovation.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 
