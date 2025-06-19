@@ -1,5 +1,4 @@
-<!--![Header](https://github.com/user-attachments/assets/2e0aae05-9fbb-4b25-840c-443b5d6aa1ee)-->
-<img src="https://github.com/user-attachments/assets/2e0aae05-9fbb-4b25-840c-443b5d6aa1ee" alt="Header" width="400"/>
+![Header](https://github.com/user-attachments/assets/2e0aae05-9fbb-4b25-840c-443b5d6aa1ee)
 
 <p align=center>
   <h2><b>:seedling: Skills in Progress</b></h2>
