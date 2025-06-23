@@ -1,5 +1,5 @@
-![Header](https://github.com/user-attachments/assets/27cc8713-0b8f-49c7-8d88-687e6ac4cdc7)
-
+![Header](https://github.com/user-attachments/assets/7a1f150c-c022-43f2-9d38-5618ad899933)
+ 
 <p align=center>
   <h2><b>:seedling: Skills in Progress</b></h2>
 </p>
