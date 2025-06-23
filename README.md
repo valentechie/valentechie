@@ -9,7 +9,7 @@
 </p>
 
 <p align=center>
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,vscode,idea,arduino,bash,python,git&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,vscode,idea,arduino,bash,python,git,linux&theme=light"/>
 </p>
 
 <!--
