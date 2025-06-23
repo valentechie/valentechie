@@ -1,4 +1,4 @@
-![Header](https://github.com/user-attachments/assets/2e0aae05-9fbb-4b25-840c-443b5d6aa1ee)
+![Header](https://github.com/user-attachments/assets/27cc8713-0b8f-49c7-8d88-687e6ac4cdc7)
 
 <p align=center>
   <h2><b>:seedling: Skills in Progress</b></h2>
@@ -13,6 +13,8 @@
 </p>
 
 <!--
+
+![Header](https://github.com/user-attachments/assets/2e0aae05-9fbb-4b25-840c-443b5d6aa1ee)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 
