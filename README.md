@@ -31,5 +31,10 @@
 	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
+
+
+<p align=center>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,figma,illustrator,photoshop,latex,opencv,ros,ubuntu&theme=light"/>
+</p>
 -->
 
