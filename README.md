@@ -9,11 +9,10 @@
 </p>
 
 <p align=center>
-  <img src="https://skillicons.dev/icons?i=cpp,vscode,c,arduino,java,idea,matlab,python,bash,git,linux&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=cpp,vscode,c,arduino,java,idea,matlab,python,bash,git,linux,ros&theme=light"/>
 </p>
 
 <!--
-
 ![Header](https://github.com/user-attachments/assets/2e0aae05-9fbb-4b25-840c-443b5d6aa1ee)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -23,18 +22,4 @@
 
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
-
-## Let's Connect
-<p align="center">
-  <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-</p>
-
-
-<p align=center>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,figma,illustrator,photoshop,latex,opencv,ros,ubuntu&theme=light"/>
-</p>
 -->
-
