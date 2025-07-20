@@ -5,7 +5,7 @@
 </p>
 
 <p align=center>
-  <b>:computer: Programming & Development Environments</b>
+  <b>:computer: Programming - Development Environments - Frameworks - Tools</b>
 </p>
 
 <p align=center>
