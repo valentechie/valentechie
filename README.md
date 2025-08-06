@@ -12,6 +12,17 @@
   <img src="https://skillicons.dev/icons?i=cpp,vscode,c,arduino,java,idea,matlab,python,bash,git,linux,ros,opencv&theme=light"/>
 </p>
 
+<p align=center>
+  <h2><b>:computer: Let's Connect</b></h2>
+</p>
+
+<p align="center">
+  <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+</p>
+
 <!--
 ![Header](https://github.com/user-attachments/assets/2e0aae05-9fbb-4b25-840c-443b5d6aa1ee)
 - 🔭 I’m currently working on ...
