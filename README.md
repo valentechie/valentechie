@@ -13,7 +13,7 @@
 </p>
 
 <p align=center>
-	<h2><b>:computer: Let's Connect</b></h2>
+	<h2><b>🌐 Let's Connect</b></h2>
 </p>
 
 <p align="center">
