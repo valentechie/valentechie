@@ -12,9 +12,12 @@
 	<img src="https://skillicons.dev/icons?i=cpp,vscode,c,arduino,java,idea,matlab,python,bash,git,linux,ros,opencv&theme=light"/>
 </p>
 
-<p align=center> 
-	<b>🌐 Let's Connect: </b>
+<p>
+  :love_letter: <a href="mailto:your.email@gmail.com">
+    Email me
+  </a> — open to collaborate!
 </p>
+
 
 <!--
 
