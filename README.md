@@ -13,7 +13,7 @@
 </p>
 
 <p>
-  :love_letter: <a href="mailto:your.email@gmail.com">
+  :love_letter: <a href="mailto:valentinaarminta@gmail.com">
     Email me
   </a> — open to collaborate!
 </p>
