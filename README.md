@@ -9,15 +9,14 @@
 </p>
 
 <p align=center>
-	<img src="https://skillicons.dev/icons?i=cpp,vscode,c,arduino,java,idea,matlab,python,bash,git,linux&theme=light"/>
+	<img src="https://skillicons.dev/icons?i=cpp,vscode,c,arduino,java,idea,matlab,python,bash,git,linux,opencv&theme=light"/>
 </p>
 
+<!--
 <p>
   :love_letter: <a href="mailto:valentinaarminta@gmail.com">Email me</a> — open to collaborate!
 </p>
 
-
-<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
