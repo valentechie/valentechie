@@ -1,11 +1,11 @@
-![Header](https://github.com/user-attachments/assets/7a1f150c-c022-43f2-9d38-5618ad899933)
+![Header](https://github.com/user-attachments/assets/cf2c55e0-542b-4672-adc9-2069e83fded5)
  
 <p align=center>
-	<h2><b>:seedling: Skills in Progress</b></h2>
+	<h2><b>👋🏼 Hello world, I’m Valen!</b></h2>
 </p>
 
 <p align=center>
-	<b>:computer: Programming - Development Environments - Frameworks - Tools</b>
+	<b>:computer: Currently learning </b>
 </p>
 
 <p align=center>
