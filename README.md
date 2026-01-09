@@ -1,8 +1,4 @@
-![Header](https://github.com/user-attachments/assets/cf2c55e0-542b-4672-adc9-2069e83fded5)
- 
-<p align=center>
-	<h2><b>👋🏼 Hello world, I’m Valen!</b></h2>
-</p>
+# 👋🏼 Hello world, I’m Valen!
 
 <p align=center>
 	<b>:computer: Currently learning </b>
@@ -18,6 +14,7 @@
 </p>
 
 <!--
+![Header](https://github.com/user-attachments/assets/cf2c55e0-542b-4672-adc9-2069e83fded5)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 
