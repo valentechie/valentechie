@@ -1,6 +1,6 @@
 # Hello world, I’m Valen!
 
-<img src="https://github.com/user-attachments/assets/997fc7bc-7e2e-46d0-a21e-c61a1b992cd3" align="right" width="250"/>
+<img src="https://github.com/user-attachments/assets/d80d0109-d458-432c-9189-1ec57c7843ac" align="right" width="210"/>
 
 ```cpp
 #include <iostream>
