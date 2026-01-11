@@ -1,16 +1,27 @@
 # 👋🏼 Hello world, I’m Valen!
 
+<img src="https://github.com/user-attachments/assets/997fc7bc-7e2e-46d0-a21e-c61a1b992cd3" align="right" width="340"/>
+
+```cpp
+#include <iostream>
+
+int main() {
+    const bool experimental = true;
+    const int year = 2026;
+
+    std::cout << "Valentina\n";
+    std::cout << "engineering student\n";
+    std::cout << (experimental ? "learning by building" : "stable mode") 
+              << " · " << year << "\n";
+}
+```
+
 <p align=center>
 	<b>:computer: Currently learning </b>
 </p>
 
 <p align=center>
-	<img src="https://skillicons.dev/icons?i=cpp,vscode,c,arduino,java,idea,matlab,python,bash,git,linux,opencv&theme=light"/>
-</p>
-
-
-<p>
-  :love_letter: <a href="mailto:valentinaarminta@gmail.com">Email me</a> — open to collaborate!
+	<img src="https://skillicons.dev/icons?i=cpp,vscode,c,arduino,python,bash,git,linux&theme=light"/>
 </p>
 
 <!--
@@ -23,4 +34,8 @@
 
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+
+<p>
+  :love_letter: <a href="mailto:valentinaarminta@gmail.com">Email me</a> — open to collaborate!
+</p>
 -->
