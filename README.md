@@ -1,6 +1,6 @@
-# 👋🏼 Hello world, I’m Valen!
+# Hello world, I’m Valen!
 
-<img src="https://github.com/user-attachments/assets/997fc7bc-7e2e-46d0-a21e-c61a1b992cd3" align="right" width="340"/>
+<img src="https://github.com/user-attachments/assets/997fc7bc-7e2e-46d0-a21e-c61a1b992cd3" align="right" width="300"/>
 
 ```cpp
 #include <iostream>
