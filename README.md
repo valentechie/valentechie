@@ -1,12 +1,8 @@
 # Hello world, I’m Valen! <img src="https://github.com/user-attachments/assets/d80d0109-d458-432c-9189-1ec57c7843ac" align="right" width="90"/>
 
-<p align=center>
-	<b>:computer: Currently learning </b>
-</p>
+<b>:computer: Currently learning </b>
 
-<p align=center>
-	<img src="https://skillicons.dev/icons?i=cpp,vscode,c,arduino,python,bash,git,linux&theme=light"/>
-</p>
+<img src="https://skillicons.dev/icons?i=cpp,vscode,c,arduino,python,bash,git,linux&theme=light"/>
 
 <!--
 ![Header](https://github.com/user-attachments/assets/cf2c55e0-542b-4672-adc9-2069e83fded5)
