@@ -1,20 +1,4 @@
-# Hello world, I’m Valen!
-
-<img src="https://github.com/user-attachments/assets/d80d0109-d458-432c-9189-1ec57c7843ac" align="right" width="210"/>
-
-```cpp
-#include <iostream>
-
-int main() {
-    const bool experimental = true;
-    const int year = 2026;
-
-    std::cout << "Valentina\n";
-    std::cout << "engineering student\n";
-    std::cout << (experimental ? "learning by building" : "stable mode") 
-              << " · " << year << "\n";
-}
-```
+# Hello world, I’m Valen! <img src="https://github.com/user-attachments/assets/d80d0109-d458-432c-9189-1ec57c7843ac" align="right" width="90"/>
 
 <p align=center>
 	<b>:computer: Currently learning </b>
