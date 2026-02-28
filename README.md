@@ -2,10 +2,10 @@
 
 <b>:computer: Currently learning </b>
 
-<img src="https://skillicons.dev/icons?i=cpp,vscode,c,arduino,python,bash,git,linux&theme=light"/>
+<img src="https://skillicons.dev/icons?i=cpp,vscode,ros,arduino,python,bash,git,linux&theme=light"/>
 
 <!--
-![Header](https://github.com/user-attachments/assets/cf2c55e0-542b-4672-adc9-2069e83fded5)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 
