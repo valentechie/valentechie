@@ -1,4 +1,4 @@
-# Hello world, I’m Valen! <img src="https://github.com/user-attachments/assets/d80d0109-d458-432c-9189-1ec57c7843ac" align="right" width="90"/>
+# Hello world, I’m [Valen](https://www.youtube.com/@valentechie)! <img src="https://github.com/user-attachments/assets/d80d0109-d458-432c-9189-1ec57c7843ac" align="right" width="90"/>
 
 <b>:computer: Currently learning </b>
 
