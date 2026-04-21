@@ -1,4 +1,5 @@
 # Hello world, I’m [Valen](https://www.youtube.com/@valentechie) !<img src="https://github.com/user-attachments/assets/d80d0109-d458-432c-9189-1ec57c7843ac" align="right" width="90"/>
+> **Aspiring software robotics engineer**
 
 <b>:computer: Currently learning </b>
 
