@@ -1,7 +1,7 @@
-<h1 align="center">Hello world, I’m Valen !</h1>
+<h2 align="center">print("Hello world, I’m Valen")</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,git&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,arduino,git&theme=light"/>
 </p>
 
 <!--
