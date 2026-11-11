@@ -1,14 +1,6 @@
-<h2 align="center">print("Hello world, I’m Valen")</h2>
+# Hello World, I'm [Valen](https://www.youtube.com/@valentechie)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,arduino,git&theme=light"/>
-</p>
-
-<!--
-<img src="https://github.com/user-attachments/assets/d80d0109-d458-432c-9189-1ec57c7843ac" width="45"/>
-<b>:computer: Currently learning </b>
-
-<img src="https://skillicons.dev/icons?i=cpp,vscode,ros,arduino,python,bash,git,linux&theme=light"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,ros,arduino,python,git&theme=light"/>
 
 <!--
 
